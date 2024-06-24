@@ -1,0 +1,39 @@
+.header .container  {
+    background-image: url(../img/header/content/Glow.svg);
+}
+
+.nav {
+    padding: 16px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #07070a;
+}
+
+.logo {
+    font-family: "Plein Variable", sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.logo span {
+    font-weight: 300;
+    letter-spacing: -0.01em;
+}
+
+.nav__list {
+    display: flex;
+    column-gap: 50px;
+}
+
+.nav__item a {
+    font-size: 14px;
+    line-height: 160%;
+    color: #a6a7ad;
+}
+
+.language {
+    display: flex;
+    align-items: center;
+    column-gap: 5.4px;
+}

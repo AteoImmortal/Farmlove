@@ -1,0 +1,29 @@
+.header__content {
+    width: 908px;
+    margin: 0 auto;
+    padding: 176px 0 253px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.header__content .logo {
+    font-size: 85px;
+    margin-bottom: 23px;
+}
+
+.header__content .logo__heart {
+    width: 46px;
+}
+
+.header__content_text {
+    margin-bottom: 52px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.header__content_btns {
+    display: flex;
+    column-gap: 16px;
+}
+

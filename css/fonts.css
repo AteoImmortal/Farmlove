@@ -1,0 +1,83 @@
+@font-face {
+    font-family: "Caros-Bold"; 
+    src: url("../fonts/cretype\ \ Caros\ Bold.otf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+}
+
+@font-face {
+    font-family: "Caros-ExtraBold"; 
+    src: url("../fonts/cretype\ \ Caros\ ExtraBold.otf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+} 
+
+@font-face {
+    font-family: "Caros-Light"; 
+    src: url("../fonts/cretype\ \ Caros\ Light.otf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+} 
+
+@font-face {
+    font-family: "Caros-Medium"; 
+    src: url("../fonts/cretype\ \ Caros\ Medium.otf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+} 
+
+@font-face {
+    font-family: "Inter-Bold"; 
+    src: url("../fonts/Inter-Bold.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+} 
+
+@font-face {
+    font-family: "Inter-Medium"; 
+    src: url("../fonts/Inter-Medium.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+} 
+
+@font-face {
+    font-family: "Inter-Regular"; 
+    src: url("../fonts/Inter-Regular.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+} 
+
+@font-face {
+    font-family: "Inter-SemiBold"; 
+    src: url("../fonts/Inter-SemiBold.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+} 
+
+@font-face {
+    font-family: "Manrope-Regular"; 
+    src: url("../fonts/Manrope-Regular.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+} 
+
+@font-face {
+    font-family: "NunitoSans-SemiBold"; 
+    src: url("../fonts/NunitoSans_7pt-SemiBold.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+} 
+
+@font-face {
+    font-family: "Plein-Variable"; 
+    src: url("../fonts/Plein-Variable.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+} 
+
+@font-face {
+    font-family: "SF-Regular"; 
+    src: url("../fonts/SF-Pro-Display-Regular.otf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+}

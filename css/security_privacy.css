@@ -1,0 +1,18 @@
+.security_privacy {
+    margin: 0 50px 218px;
+}
+
+.security_privacy .title-2 {
+    margin: 24px 0;
+}
+
+.security_privacy__text {
+    width: 495px;
+    font-weight: 400;
+    font-size: 15px;
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.security_privacy__text:last-child{
+    margin-top: 25px;
+}

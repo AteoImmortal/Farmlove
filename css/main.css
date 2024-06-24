@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+li {
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+body {
+    background-color: #07070a;
+    color: #ffffff;
+    font-family: "Caros-Light", sans-serif;
+}
+
+.container {
+    margin: 0 auto;
+    width: 1280px;
+}
+
+.btn {
+    width: 160px;
+    height: 40px;
+    border-radius: 8px;
+    padding: 10px 20px;
+
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 137%;
+    color: #1e2f14;
+}
+
+.btn__transparent {
+    background-color: transparent;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    color: #fff;
+}
+
+.tg {
+    display: flex;
+    column-gap: 6px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    color: #007aff;
+}
+
+.title-2 {
+    display: block;
+    font-family: "Caros-Bold";
+    font-size: 82px;
+}
+
+.title-4 {
+    font-family: "Caros-ExtraBold", sans-serif; 
+    font-size: 36px;
+}

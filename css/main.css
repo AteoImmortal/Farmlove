@@ -17,6 +17,7 @@ body {
     background-color: #07070a;
     color: #ffffff;
     font-family: "Caros-Light", sans-serif;
+    box-sizing: border-box;
 }
 
 .container {
@@ -51,10 +52,23 @@ body {
     color: #007aff;
 }
 
+.title-1 {
+    font-family: "Plein Variable", sans-serif;
+    font-size: 85px;
+    margin-bottom: 23px;
+}
+
 .title-2 {
-    display: block;
     font-family: "Caros-Bold";
     font-size: 82px;
+}
+
+.title-3 {
+    font-family: "Caros-Bold";
+    font-weight: 600;
+    font-size: 52px;
+    line-height: 57.2px;
+    text-align: center;
 }
 
 .title-4 {

@@ -7,11 +7,6 @@
     align-items: center;
 }
 
-.header__content .logo {
-    font-size: 85px;
-    margin-bottom: 23px;
-}
-
 .header__content .logo__heart {
     width: 46px;
 }
